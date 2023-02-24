@@ -1,1 +1,1 @@
-# TaiwaneseBankruptcyPrediction
+# Taiwanese Bankruptcy Prediction
