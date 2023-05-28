@@ -9,6 +9,16 @@ Así mismo, nos basamos en el reto de Kaggle: https://www.kaggle.com/datasets/fe
 * Jhonier Raúl Jiménez Acevedo, Ingeniería de sistemas
 * Oriana Mejía Cardona, Ingeniería mecánica
 
+# ¿Cómo se obtienen los archivos?
+
+Se utilizan 3 archivos csv: 
+
+* data.csv: Dataset original de la competencia de Kaggle. 
+* simulated_data.csv: Dataset originado luego de la simulación.
+* processed_data.csv: Dataset originado luego del procesado de los datos.
+
+Estos se guardan en los archivos de Google Colab al ejecutar los colaboratorios de Google, y son guardados en los repositorios de los miembros para ser utilizados en los siguientes laboratorios. 
+
 # Video segunda entrega 
 
 https://drive.google.com/file/d/1_9TMkO21BI75nR3ZOccF1l5b0Ghc3Jae/view
