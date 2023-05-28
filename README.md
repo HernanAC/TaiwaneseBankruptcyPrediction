@@ -5,9 +5,9 @@ Así mismo, nos basamos en el reto de Kaggle: https://www.kaggle.com/datasets/fe
 
 # Miembros del grupo
 
-* Hernán Javier Aguilar Cruz, Ingeniería de sistemas
-* Jhonier Raúl Jiménez Acevedo, Ingeniería de sistemas
-* Oriana Mejía Cardona, Ingeniería mecánica
+* Hernán Javier Aguilar Cruz, C.C. 1006503110, Ingeniería de sistemas
+* Jhonier Raúl Jiménez Acevedo, C.C. 1020446958, Ingeniería de sistemas
+* Oriana Mejía Cardona, C.C. , Ingeniería mecánica
 
 # ¿Cómo se obtienen los archivos?
 
