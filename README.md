@@ -7,7 +7,7 @@ Así mismo, nos basamos en el reto de Kaggle: https://www.kaggle.com/datasets/fe
 
 * Hernán Javier Aguilar Cruz, C.C. 1006503110, Ingeniería de sistemas
 * Jhonier Raúl Jiménez Acevedo, C.C. 1020446958, Ingeniería de sistemas
-* Oriana Mejía Cardona, C.C. , Ingeniería mecánica
+* Oriana Mejía Cardona, C.C. 1035879334, Ingeniería mecánica
 
 # ¿Cómo se obtienen los archivos?
 
